@@ -1,0 +1,17 @@
+{
+  "name": "generator-franks",
+  "version": "1.0.0",
+  "description": "Franks Generator",
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "author": "Franks",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^5.2.0"
+  }
+}
