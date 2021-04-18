@@ -2,7 +2,6 @@
   "name": "generator-franks",
   "version": "1.0.0",
   "description": "Franks Generator",
-  "main": "index.js",
   "keywords": [
     "yeoman-generator"
   ],
@@ -13,5 +12,18 @@
   "license": "ISC",
   "dependencies": {
     "yeoman-generator": "^5.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.24.0",
+    "eslint-config-prettier": "^8.2.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-standard": "^5.0.0",
+    "prettier": "^2.2.1"
   }
 }
